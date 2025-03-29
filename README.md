@@ -10,5 +10,5 @@ Program is written in C#, located in App/Program.cs
 ## Installation
 ```sh
 git clone https://github.com/pedroperesdev/backup_app.git
-cd backup_app
-dotnet new console -n App
+cd backup_app/App
+dotnet run Program.cs
