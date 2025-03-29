@@ -1,4 +1,4 @@
-# Program for folder synchronization
+# Program for Folder Synchronization
 
 ## Description
 Program that executes a one-way synchronization from source(original) folder to a replica folder. Once running, enter the following: <sourceDir> <replicaDir> <intervalInSeconds> <logFilePath>
