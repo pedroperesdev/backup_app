@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xjf6W3RAt8kGnuk5xUlN7Hx1cGEoW10ef5xEi4EDjBoiW6JvTF9tgeRzFO6lIF928TaV4zNqfzn8QEXg2DOkyA==",
+  "dgSpecHash": "8QlptZDqFYZlKKXqZNiThB/JJCGsb98BfT1koi0duBbPeRKzQgH46eoPUsETEUHKtdx4YTpTyvw+Z4zDLzDg1w==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/App.csproj",
+  "projectFilePath": "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/backup_app/App/App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

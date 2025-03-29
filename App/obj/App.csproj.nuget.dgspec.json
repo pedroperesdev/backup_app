@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/App.csproj": {}
+    "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/backup_app/App/App.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/App.csproj": {
+    "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/backup_app/App/App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/App.csproj",
+        "projectUniqueName": "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/backup_app/App/App.csproj",
         "projectName": "App",
-        "projectPath": "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/App.csproj",
+        "projectPath": "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/backup_app/App/App.csproj",
         "packagesPath": "/home/pedro/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/",
+        "outputPath": "/mnt/c/Users/Pedro Peres/Desktop/veeam_test/backup_app/App/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pedro/.nuget/NuGet/NuGet.Config"

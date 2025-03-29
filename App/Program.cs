@@ -109,7 +109,7 @@ public class Program{
 
     static string ParseArgs(){
         string input = string.Empty;
-        Console.WriteLine("Enter original directory, replica directory, synchronization interval (in seconds) and log file path separated by space:");
+        Console.WriteLine("Enter original directory, replica directory, synchronization interval (in seconds) and log file path separated by ;");
         input = Console.ReadLine() ?? string.Empty;
         return input;
 
