@@ -1,4 +1,4 @@
-# Program for Folder Synchronization (in C#)
+# Program for Folder Synchronization built with **.NET** and written in **C#**.
 
 ## Description
 Program that executes a one-way synchronization from source(original) folder to a replica folder. Once running, enter the following:  
