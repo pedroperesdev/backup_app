@@ -1,0 +1,15 @@
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/bin/Debug/net8.0/App
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/bin/Debug/net8.0/App.deps.json
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/bin/Debug/net8.0/App.runtimeconfig.json
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/bin/Debug/net8.0/App.dll
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/bin/Debug/net8.0/App.pdb
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/App.AssemblyInfoInputs.cache
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/App.AssemblyInfo.cs
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/App.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/App.sourcelink.json
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/App.dll
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/refint/App.dll
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/App.pdb
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/App.genruntimeconfig.cache
+/mnt/c/Users/Pedro Peres/Desktop/veeam_test/App/obj/Debug/net8.0/ref/App.dll
