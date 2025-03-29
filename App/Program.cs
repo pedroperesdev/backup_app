@@ -10,8 +10,9 @@ using System.Reflection.Metadata;
 
 /*
     Program that executes a one-way synchronization from source(original)
-    folder to a replica folder. Once running, enter the following:
-    <sourceDir> <replicaDir> <intervalInSeconds> <logFilePath>
+    folder to a replica folder. Once running, enter the following
+    <sourceDir>;<replicaDir>;<intervalInSeconds>;<logFilePath>
+    separated by ";".
     Since the program synchronizes two folders, both <sourceDir>
     and <replicaDir> need to exist.
     The synchronization detects file/folder additions, removals 
@@ -20,7 +21,6 @@ using System.Reflection.Metadata;
 
 */
 
-//Readme file on github, describing how to compile/run dotnet
 
 public class Program{
 
@@ -40,7 +40,7 @@ public class Program{
 
             input = ParseArgs();
             try{
-                line = input.Split(' ');
+                line = input.Split(';');
                 if(line.Length == 4){
                     original = line[0];
                     replica = line[1];
